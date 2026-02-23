@@ -16,13 +16,14 @@ Just plain HTML + CSS.
 ---
 
 ## File Structure
+```text
 your-repo/
 │
 ├── index.html
 ├── style.css
 └── assets/
-├── photo.jpg
-└── cv.pdf (optional)
+    ├── photo.jpg
+    └── cv.pdf (optional)
 
 ---
 
