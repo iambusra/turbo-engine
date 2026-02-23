@@ -23,7 +23,7 @@ your-repo/
 ├── style.css
 └── assets/
     ├── photo.jpg
-    └── cv.pdf (optional)
+    └── cv.pdf (optional)```
 
 ---
 
